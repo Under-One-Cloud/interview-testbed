@@ -11,7 +11,7 @@
     "name": "Var, Const, and Let: Just What Is A Variable In Javascript, Anyway?",
     "description": "This course will take you through the important and subtle differences between different variable declaration keywords in Javascript.",
     "price": 4.99,
-    "rating": 1.2
+    "rating": -1.2
   },
   {
     "id": "9ab92ed7-5e4f-4fc5-9d92-8d8903ac4c56",
@@ -57,15 +57,15 @@
   },
   {
     "id": "bffd3930-04f1-4834-a679-1ec6357af894",
-    "name": "",
-    "description": "",
+    "name": "HYAH! and Other Words Of Wisdom",
+    "description": "A Self-Improvement course in which Link from The Legend Of Zelda will teach you self-confidence.",
     "price": 4.99,
-    "rating": 3.8
+    "rating": -3.8
   },
   {
     "id": "a4e2deae-9313-43af-9c3d-60f9fd8fe936",
-    "name": "",
-    "description": "",
+    "name": "Internal Project Codenames",
+    "description": "Coming up with cool names which, in many cases, end up becoming the production name, whoops.",
     "price": 4.99,
     "rating": 3.4
   }
