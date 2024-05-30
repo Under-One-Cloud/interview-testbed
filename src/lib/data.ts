@@ -1,7 +1,7 @@
 /* Do Not Touch Zone */
 'use server'
 import 'server-only'
-import * as courses from './data/courses.json'
+import courses from './data/courses.json'
 
 /**
  * Gets course data from the 'database'.
@@ -23,7 +23,7 @@ export async function getCourseData(
     return null
   }
 
-  const start = count * page - 1
+  const start = count * (page - 1)
   const end = start + count
 
   return courses.slice(start, end)
