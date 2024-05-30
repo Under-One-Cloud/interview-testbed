@@ -1,0 +1,72 @@
+[
+  {
+    "id": "fb45fc03-5de7-4c53-a6ad-5912dc2ba1f5",
+    "name": "NextJS For Beginners",
+    "description": "A quick guide to NextJS from Vercel, ready for the new App Router.",
+    "price": 4.99,
+    "rating": 3.4
+  },
+  {
+    "id": "a3ba6b2e-91a5-46bf-b448-ddb2f8910dd5",
+    "name": "Var, Const, and Let: Just What Is A Variable In Javascript, Anyway?",
+    "description": "This course will take you through the important and subtle differences between different variable declaration keywords in Javascript.",
+    "price": 4.99,
+    "rating": 1.2
+  },
+  {
+    "id": "9ab92ed7-5e4f-4fc5-9d92-8d8903ac4c56",
+    "name": "Types And You",
+    "description": "Learn why types are good, actually, and should've been in JS from the beginning.",
+    "price": 4.99,
+    "rating": 4.6
+  },
+  {
+    "id": "b668f336-4781-4144-8f29-49074e8856b3",
+    "name": "Based: Firebase, Supabase, Pocketbase... AWS",
+    "description": "Just what are they, anyway?",
+    "price": 4.99,
+    "rating": 3.6
+  },
+  {
+    "id": "a28b7a76-b771-4287-ba70-a6dd225cbedc",
+    "name": "Components For Fun And Profit",
+    "description": "Learn and integrate the philosophy of component-based design.",
+    "price": 4.99,
+    "rating": 3.2
+  },
+  {
+    "id": "dd5be2a8-7555-404b-bcae-70baf56eb081",
+    "name": "Package Managers: Isn't npm good enough?",
+    "description": "The answer may surprise you!",
+    "price": 4.99,
+    "rating": 4.7
+  },
+  {
+    "id": "6e3a392c-cd7e-4043-88f1-f487d28d4552",
+    "name": "Java and Cocoa: The History Of Hot Drinks And Development",
+    "description": "Those programmers are obsessed with beans, and the drinks that can be made from them.",
+    "price": 4.99,
+    "rating": 0.5
+  },
+  {
+    "id": "9cde6d13-fb33-44e2-8ced-4f22698f2859",
+    "name": "State Setter Callbacks: What, How, and Why?",
+    "description": "A lesser-known pattern with some really convenient properties.",
+    "price": 4.99,
+    "rating": 2.8
+  },
+  {
+    "id": "bffd3930-04f1-4834-a679-1ec6357af894",
+    "name": "",
+    "description": "",
+    "price": 4.99,
+    "rating": 3.8
+  },
+  {
+    "id": "a4e2deae-9313-43af-9c3d-60f9fd8fe936",
+    "name": "",
+    "description": "",
+    "price": 4.99,
+    "rating": 3.4
+  }
+]
