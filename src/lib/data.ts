@@ -22,7 +22,7 @@ export async function getCourseData(
 
 export async function getCourseCount(): Promise<number> {
   await new Promise((resolve) => {
-    setTimeout(resolve, Math.ceil(Math.random() * 2000 + 250))
+    setTimeout(resolve, Math.ceil(Math.random() * 250 + 250))
   })
 
   return courses.length
