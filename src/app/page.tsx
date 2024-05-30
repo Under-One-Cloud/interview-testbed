@@ -1,8 +1,12 @@
 'use server'
 
-import Card from '@/components/Card/Card'
+import Card from '@/components/Card'
 import * as data from '@/lib/data'
 
+/**
+ * Home page
+ * @returns Page component
+ */
 export default async function Home() {
   const courses = await data.getCourseData()
   const courseCount = await data.getCourseCount()
