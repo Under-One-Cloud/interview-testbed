@@ -5,6 +5,7 @@ import * as data from '@/lib/data'
 
 export default async function Home() {
   const courses = await data.getCourseData()
+  const courseCount = await data.getCourseCount()
 
   if (!courses) {
     return <>Courses Not Found</>
@@ -25,6 +26,10 @@ export default async function Home() {
           </p>
         </Card>
       ))}
+      <p>
+        <strong>Total Number of Courses: </strong>
+        {courseCount}
+      </p>
     </>
   )
 }
